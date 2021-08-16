@@ -1,4 +1,4 @@
-# Friend Detector by Ricardo Oliveira, forked by Skickar 9/30/2018
+# Friend Detector by Ricardo Oliveira, forked by Skickar 9/30/2018, forked by jonts9 16/08/2021
 
 This project requires: A NodeMCU, a mini-breadboard (or full sized one), and a 4 pin RGB LED. 
 
